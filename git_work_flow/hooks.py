@@ -4,7 +4,7 @@ app_publisher = "Maharaja"
 app_description = "Git Workflow"
 app_email = "maharaja@tridotstech.com"
 app_license = "mit"
-
+# 
 # Apps
 # ------------------
 
